@@ -6,7 +6,7 @@ This is the code for the article published in CSI Adhyayan April - June 2020 edi
 
 Link to the publication: http://www.csi-india.org/csia/index.php?y=2020
 
-This was just a small college assignments, and just a **basic Julia Set Fractal Generator** using CUDA.
+This was just a small college assignment titled **Basic Julia Set Fractal Generator** using CUDA.
 
 Dependencies
 #############
